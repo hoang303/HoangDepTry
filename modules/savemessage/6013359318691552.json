@@ -1,0 +1,98 @@
+{
+    "100080431916488": [
+        {
+            "type": "message",
+            "message": "/",
+            "time": "03/09/2022 22:30:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/duyet l",
+            "time": "03/09/2022 22:31:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Box bị mõm",
+            "time": "03/09/2022 22:31:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Mõm",
+            "time": "03/09/2022 23:45:17",
+            "attachment": []
+        }
+    ],
+    "100016514826445": [
+        {
+            "type": "message",
+            "message": "T out ht box r",
+            "time": "03/09/2022 22:31:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "03/09/2022 23:44:54",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=G7y1JaF14U8AX--IQ4f&_nc_oc=AQn_bQhCyqlW7WKKUU9xeID_gyz7MUOHU-Wkc19qAIbvlMXHw4qVq1jLbFu_i5MdDDI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AT-jpeEcf3U4qzZ7AMoffe2SEWoaqJ08fI9oy1ZsO0s4Mw&oe=6318E54B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "!",
+            "time": "03/09/2022 23:44:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/",
+            "time": "03/09/2022 23:45:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "#",
+            "time": "03/09/2022 23:45:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "?",
+            "time": "03/09/2022 23:45:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ";",
+            "time": "03/09/2022 23:45:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Clm",
+            "time": "03/09/2022 23:45:21",
+            "attachment": []
+        }
+    ]
+}

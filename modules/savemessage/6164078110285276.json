@@ -1,0 +1,148 @@
+{
+    "100016514826445": [
+        {
+            "type": "message",
+            "message": "",
+            "time": "03/09/2022 22:05:02",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=G7y1JaF14U8AX--IQ4f&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AT9WFyrB57tDnlEiupJrIYuJTksczWDISGpgLO-W5CKiXQ&oe=6318E54B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Nhờn",
+            "time": "03/09/2022 22:05:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "!",
+            "time": "03/09/2022 22:05:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "#",
+            "time": "03/09/2022 22:05:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/",
+            "time": "03/09/2022 22:05:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "03/09/2022 22:05:57",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=G7y1JaF14U8AX--IQ4f&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AT9WFyrB57tDnlEiupJrIYuJTksczWDISGpgLO-W5CKiXQ&oe=6318E54B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        }
+    ],
+    "100085528171270": [
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: đi chơi\nĐã thông báo về admin\nTime: 22:05:02",
+            "time": "03/09/2022 22:05:02",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: đi ỉa\nĐã thông báo về admin\nTime: 22:05:02",
+            "time": "03/09/2022 22:05:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "» Hiện tại đang cấm đổi tên bot",
+            "time": "03/09/2022 22:05:04",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: ngủ\nĐã thông báo về admin\nTime: 22:05:03",
+            "time": "03/09/2022 22:05:05",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: tán crush rồi\nĐã thông báo về admin\nTime: 22:05:04",
+            "time": "03/09/2022 22:05:05",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: không biết\nĐã thông báo về admin\nTime: 22:05:05",
+            "time": "03/09/2022 22:05:06",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: ai mà biết\nĐã thông báo về admin\nTime: 22:05:05",
+            "time": "03/09/2022 22:05:06",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: bị gank bay màu r\nĐã thông báo về admin\nTime: 22:05:06",
+            "time": "03/09/2022 22:05:07",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: ngủ\nĐã thông báo về admin\nTime: 22:05:06",
+            "time": "03/09/2022 22:05:07",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: chơi game\nĐã thông báo về admin\nTime: 22:05:07",
+            "time": "03/09/2022 22:05:08",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: đi chơi\nĐã thông báo về admin\nTime: 22:05:07",
+            "time": "03/09/2022 22:05:08",
+            "attachment": []
+        }
+    ]
+}

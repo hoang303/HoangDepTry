@@ -1,0 +1,2340 @@
+{
+    "100080431916488": [
+        {
+            "type": "message",
+            "message": "/idbox",
+            "time": "27/08/2022 21:50:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Xịn ko",
+            "time": "27/08/2022 21:51:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Bot tâm gọi bằng cụ",
+            "time": "27/08/2022 21:53:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/sing về bên anh",
+            "time": "27/08/2022 21:53:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "1",
+            "time": "27/08/2022 21:53:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "2 em k7",
+            "time": "27/08/2022 23:35:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "27/08/2022 23:35:09",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "844016393235002",
+                    "filename": "image-844016393235002",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301291320_844016399901668_3835683950661920663_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xePOb7A9TuAAX9-DMpS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLd7wNkyywnLlH7tunU76QJlNM3vHUDbSl6VcWcGuwu0A&oe=632E0F5F",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301291320_844016399901668_3835683950661920663_n.jpg?stp=dst-jpg_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xePOb7A9TuAAX9-DMpS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKjEZ31sephy1F3aAnaRwIE2K0rZRPYGegPj7CT2fexCA&oe=632E0F5F",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301291320_844016399901668_3835683950661920663_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xePOb7A9TuAAX9-DMpS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVI8obGWp7XE0TXZx_Ihd1zGuwT1nXctBtb67LgW20zkkA&oe=632E0F5F",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301291320_844016399901668_3835683950661920663_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xePOb7A9TuAAX9-DMpS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVI8obGWp7XE0TXZx_Ihd1zGuwT1nXctBtb67LgW20zkkA&oe=632E0F5F",
+                    "width": 720,
+                    "height": 1600,
+                    "name": "image-844016393235002"
+                },
+                {
+                    "type": "photo",
+                    "ID": "508863807717281",
+                    "filename": "image-508863807717281",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301084125_611033117304849_2963217729736078525_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EaMf7EAm5uwAX-I0HB1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKOuV-fNHp4dR_yKVH00z9-1bJ1ZxTM08g4Td6h6TOA7A&oe=632F12E9",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301084125_611033117304849_2963217729736078525_n.jpg?stp=dst-jpg_p280x280&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EaMf7EAm5uwAX-I0HB1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJFxh0o04l43h6eboFJi_dHBVgcgskDak7WAGmn4US_Iw&oe=632F12E9",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301084125_611033117304849_2963217729736078525_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EaMf7EAm5uwAX-I0HB1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLcxWpxItH-5CJFOcj7xnirCRDjcclVMXFTphjR5tUEuA&oe=632F12E9",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301084125_611033117304849_2963217729736078525_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EaMf7EAm5uwAX-I0HB1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLcxWpxItH-5CJFOcj7xnirCRDjcclVMXFTphjR5tUEuA&oe=632F12E9",
+                    "width": 720,
+                    "height": 1600,
+                    "name": "image-508863807717281"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Ngon",
+            "time": "27/08/2022 23:35:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Hành trình tìm 1k6",
+            "time": "27/08/2022 23:36:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Nhận tìm acc theo tháng năm sinh",
+            "time": "27/08/2022 23:45:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Tìm bao mới ra 1 k 6",
+            "time": "27/08/2022 23:46:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/linkfb 100008166164235",
+            "time": "27/08/2022 23:50:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "??",
+            "time": "28/08/2022 07:46:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ")",
+            "time": "28/08/2022 07:46:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/",
+            "time": "28/08/2022 07:46:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "////",
+            "time": "28/08/2022 07:47:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/upt",
+            "time": "28/08/2022 07:47:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/uptime",
+            "time": "28/08/2022 07:47:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Mới reset",
+            "time": "28/08/2022 07:47:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Web",
+            "time": "28/08/2022 07:47:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/gỡv2",
+            "time": "28/08/2022 07:48:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/gỡ v2 on",
+            "time": "28/08/2022 07:48:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/gỡv2 on",
+            "time": "28/08/2022 07:48:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/sing về bên anh",
+            "time": "28/08/2022 08:38:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "🌤",
+            "time": "28/08/2022 08:38:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "1",
+            "time": "28/08/2022 08:38:28",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "1",
+            "time": "28/08/2022 08:38:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Lại die",
+            "time": "28/08/2022 08:38:39",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "1",
+            "time": "28/08/2022 08:38:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/outbox",
+            "time": "28/08/2022 09:51:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/upt",
+            "time": "28/08/2022 09:51:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/uptime",
+            "time": "28/08/2022 09:51:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Perfix",
+            "time": "28/08/2022 09:52:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/menu",
+            "time": "28/08/2022 09:53:00",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "7",
+            "time": "28/08/2022 09:53:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "4",
+            "time": "28/08/2022 09:53:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/admin config",
+            "time": "28/08/2022 10:33:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/cmd l config",
+            "time": "28/08/2022 10:34:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/config",
+            "time": "28/08/2022 10:34:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/",
+            "time": "28/08/2022 10:34:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Nhận mọi kèo fb",
+            "time": "28/08/2022 10:46:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 10:46:04",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "458145182894332",
+                    "filename": "image-458145182894332",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301237838_458145186227665_2939102136545324584_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WJae6mtKmWcAX9V8Isb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLhKWp8rtAJvtdo4u53yXXrFHJroSCI13rg3wUHt5Kr0A&oe=632EF70B",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301237838_458145186227665_2939102136545324584_n.jpg?stp=dst-jpg_p280x280&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WJae6mtKmWcAX9V8Isb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJ_FgtSSmmsE0ohxNEwCKtUnZZKXqFzJnpCEbAsEEG3PA&oe=632EF70B",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301237838_458145186227665_2939102136545324584_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WJae6mtKmWcAX9V8Isb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIRvPddI_LFZT5cCw82MEP_qi__0bHO6DpxRenjmLmS6g&oe=632EF70B",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1066,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301237838_458145186227665_2939102136545324584_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WJae6mtKmWcAX9V8Isb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIRvPddI_LFZT5cCw82MEP_qi__0bHO6DpxRenjmLmS6g&oe=632EF70B",
+                    "width": 859,
+                    "height": 1908,
+                    "name": "image-458145182894332"
+                },
+                {
+                    "type": "photo",
+                    "ID": "5403113629736134",
+                    "filename": "image-5403113629736134",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301355413_5403113639736133_3404159632751136982_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=OckK6tGBHjYAX-K4bER&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJjV3X64yC4EzviBfK9896CRzRiNPwB3Sp2w1pC75TyPw&oe=632F86AB",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301355413_5403113639736133_3404159632751136982_n.jpg?stp=dst-jpg_p280x280&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=OckK6tGBHjYAX-K4bER&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKzI8NIvCCsTF13dD1As_tMe3QppyJDSo32IhESlyrwdw&oe=632F86AB",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301355413_5403113639736133_3404159632751136982_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=OckK6tGBHjYAX-K4bER&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIfT5Ug3MrCtNQ5bhhDGtinENNCpwoqIskFgd6R5oETGw&oe=632F86AB",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301355413_5403113639736133_3404159632751136982_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=OckK6tGBHjYAX-K4bER&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIfT5Ug3MrCtNQ5bhhDGtinENNCpwoqIskFgd6R5oETGw&oe=632F86AB",
+                    "width": 576,
+                    "height": 1280,
+                    "name": "image-5403113629736134"
+                },
+                {
+                    "type": "photo",
+                    "ID": "457585983049702",
+                    "filename": "image-457585983049702",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301216103_457585989716368_8582822583953772132_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4A4c2K6SagsAX-NSHAU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVK8xX_UZVOjp13yZatmRL0V8oCSTNjYj265JsXVn3408Q&oe=63324BFA",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301216103_457585989716368_8582822583953772132_n.jpg?stp=dst-jpg_p280x280&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4A4c2K6SagsAX-NSHAU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVL3Sh29jVv66nHeg_kHEBXcctOPJKf8AorZbUtNVfwmYg&oe=63324BFA",
+                    "previewWidth": 280,
+                    "previewHeight": 606,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301216103_457585989716368_8582822583953772132_n.jpg?stp=dst-jpg_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4A4c2K6SagsAX-NSHAU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLFEwwn1G_th5eSN4E-g1d1YG_h5-cPxmNZLXff6_7CpQ&oe=63324BFA",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1038,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301216103_457585989716368_8582822583953772132_n.jpg?stp=dst-jpg_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4A4c2K6SagsAX-NSHAU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLFEwwn1G_th5eSN4E-g1d1YG_h5-cPxmNZLXff6_7CpQ&oe=63324BFA",
+                    "width": 947,
+                    "height": 2048,
+                    "name": "image-457585983049702"
+                },
+                {
+                    "type": "photo",
+                    "ID": "784536086301370",
+                    "filename": "image-784536086301370",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301588908_784536089634703_3191470525101003808_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=CPJ2ABR-P5MAX8Cy6hF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJAOcrzoi9qcEJUFPONaAuwFMyV-eu5kLVi7KM9ZsCeDA&oe=6330422C",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301588908_784536089634703_3191470525101003808_n.jpg?stp=dst-jpg_p280x280&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=CPJ2ABR-P5MAX8Cy6hF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKBRsqtWwoTWhrKHP1EP5Al8zIY-VzMvhGdqGsusRnfvQ&oe=6330422C",
+                    "previewWidth": 280,
+                    "previewHeight": 488,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301588908_784536089634703_3191470525101003808_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=CPJ2ABR-P5MAX8Cy6hF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKTjoPFjXsdJaniqnNjcUfBrMhb8jpDfJlGS28wvW49pg&oe=6330422C",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 836,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301588908_784536089634703_3191470525101003808_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=CPJ2ABR-P5MAX8Cy6hF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKTjoPFjXsdJaniqnNjcUfBrMhb8jpDfJlGS28wvW49pg&oe=6330422C",
+                    "width": 1176,
+                    "height": 2048,
+                    "name": "image-784536086301370"
+                },
+                {
+                    "type": "photo",
+                    "ID": "422203316427317",
+                    "filename": "image-422203316427317",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301499338_422203319760650_9166782660163725894_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-nqiHDHDpgUAX_zZYVt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIp0h7mHZ2O-KOM1GTVNIDS2d4jaKSUrE1sD0deC8lGiw&oe=6330C57D",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301499338_422203319760650_9166782660163725894_n.jpg?stp=dst-jpg_p280x280&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-nqiHDHDpgUAX_zZYVt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVICcUz0ZNatgXdUimEUYyF2SOmRTCOQLuou18YPcZugeA&oe=6330C57D",
+                    "previewWidth": 280,
+                    "previewHeight": 498,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301499338_422203319760650_9166782660163725894_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-nqiHDHDpgUAX_zZYVt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJHQ1gIS4_YS_UxSeuGbjj3mBBYkoZyK82A1iMj43O5ng&oe=6330C57D",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 854,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301499338_422203319760650_9166782660163725894_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-nqiHDHDpgUAX_zZYVt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJHQ1gIS4_YS_UxSeuGbjj3mBBYkoZyK82A1iMj43O5ng&oe=6330C57D",
+                    "width": 750,
+                    "height": 1334,
+                    "name": "image-422203316427317"
+                },
+                {
+                    "type": "photo",
+                    "ID": "592885805894246",
+                    "filename": "image-592885805894246",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301214289_592885809227579_2546240823316460368_n.jpg?stp=cp0_dst-jpg_p34x34&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=nVlClmUc8HgAX8pHerh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIkdm7BKhF2ryQnGa5Q7i3wy7CHFAV-fWECnJSqMjnFcQ&oe=6330977F",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301214289_592885809227579_2546240823316460368_n.jpg?stp=dst-jpg_p280x280&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=nVlClmUc8HgAX8pHerh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVI2Bp-IN8d20HOYfxravIX9NxDAlBcSOOUAG1IJnGXLZA&oe=6330977F",
+                    "previewWidth": 280,
+                    "previewHeight": 414,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301214289_592885809227579_2546240823316460368_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=nVlClmUc8HgAX8pHerh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJH8u1JKMnvcGChX4r5b1iJUGUR2NlKS9NpXSkgrb35aw&oe=6330977F",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 709,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301214289_592885809227579_2546240823316460368_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=nVlClmUc8HgAX8pHerh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJH8u1JKMnvcGChX4r5b1iJUGUR2NlKS9NpXSkgrb35aw&oe=6330977F",
+                    "width": 750,
+                    "height": 1108,
+                    "name": "image-592885805894246"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 10:46:17",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-fe841b95-c7cb-40a6-b95b-7d3e34e24da7-1661658375.mp4",
+                    "ID": "901554870805055",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/75614283_3197046726974601_1646970987598272747_n.jpg?stp=dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=tNPX1F8olnUAX8aU7UO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVL2Pbu5YGyylBS1Pl8C_-wOo8Fe3uKTupGWvgZLH8RK6A&oe=630C08D3",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/301239769_5220978694637247_845046594677046561_n.mp4/video-fe841b95-c7cb-40a6-b95b-7d3e34e24da7-1661658375.mp4?_nc_cat=110&ccb=1-7&_nc_sid=060d78&_nc_ohc=WiXopamiZWIAX9FFCSM&vabr=988289&_nc_ht=scontent.xx&oh=03_AVJgL_nL-JAjdeLkG1Vd_T80ntQ0UmE4zYFQE8L-DKOsbQ&oe=630C1E0D&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 21000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/75614283_3197046726974601_1646970987598272747_n.jpg?stp=dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=tNPX1F8olnUAX8aU7UO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVL2Pbu5YGyylBS1Pl8C_-wOo8Fe3uKTupGWvgZLH8RK6A&oe=630C08D3"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Nhận gạch card đổi tiền qua các ví",
+            "time": "28/08/2022 10:47:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Gdtg cho ae buôn bán",
+            "time": "28/08/2022 10:48:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "///",
+            "time": "28/08/2022 11:59:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/upt",
+            "time": "28/08/2022 12:00:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/uptime",
+            "time": "28/08/2022 12:01:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "T có con fb id 9 số",
+            "time": "28/08/2022 12:56:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 12:58:13",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "5388619081255201",
+                    "filename": "image-5388619081255201",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301359119_626599628930491_379649553568925348_n.png?stp=cp0_dst-png_s50x50&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yLGXQQI3vk0AX8AiOhe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVL5Rc33fSESWBVIf9moWkFZHlebXM20fHLnpAglg4zzxw&oe=63300838",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301359119_626599628930491_379649553568925348_n.png?stp=dst-png_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yLGXQQI3vk0AX8AiOhe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJ36Gec-Cqen3tc4PQxdPdnRxT3nkg-LIeHHSdV4FBt-A&oe=63300838",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301359119_626599628930491_379649553568925348_n.png?stp=dst-png_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yLGXQQI3vk0AX8AiOhe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVInwnsVGpv-WF_QSByI4-d_mj-R86vEidwvv4F0T7gjRw&oe=63300838",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301359119_626599628930491_379649553568925348_n.png?stp=dst-png_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yLGXQQI3vk0AX8AiOhe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVInwnsVGpv-WF_QSByI4-d_mj-R86vEidwvv4F0T7gjRw&oe=63300838",
+                    "width": 720,
+                    "height": 1600,
+                    "name": "image-5388619081255201"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "9số",
+            "time": "28/08/2022 12:58:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/",
+            "time": "28/08/2022 20:09:46",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/uptime",
+            "time": "28/08/2022 20:09:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 20:13:59",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "377665734544535",
+                    "filename": "image-377665734544535",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=cp0_dst-png_s50x50&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLwutU0j02TrvlFu-8HHJ73zIJXp-BK0NiIdc0WaoUmyA&oe=6330F228",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=dst-png_p280x280&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLpE8_yhDgbzJmdgHht50COjC7rJoZ_u5It32Pzg8kYAQ&oe=6330F228",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=dst-png_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKE5ejVSKX221U5hgmZgt32UYdYXYdSkwY1HhIf2O5o3w&oe=6330F228",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=dst-png_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKE5ejVSKX221U5hgmZgt32UYdYXYdSkwY1HhIf2O5o3w&oe=6330F228",
+                    "width": 720,
+                    "height": 1600,
+                    "name": "image-377665734544535"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 20:54:57",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "3163113417337812",
+                    "filename": "image-3163113417337812",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301482705_2865786067063322_8420371335345727176_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QT8Wq6NMiSMAX_Q4QOf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKdGyBG0TbUZB1XkDq0Lg7Z-XTPZPA5fdX5cw4-FBUoxg&oe=63302B99",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301482705_2865786067063322_8420371335345727176_n.jpg?stp=dst-jpg_p280x280&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QT8Wq6NMiSMAX_Q4QOf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKFS13GjfGwR9nPt-kyOI4KZnBci4AYeKv_X3-mQUligA&oe=63302B99",
+                    "previewWidth": 280,
+                    "previewHeight": 498,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301482705_2865786067063322_8420371335345727176_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QT8Wq6NMiSMAX_Q4QOf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIIygty_DHt30p3-gMAZytIzOy6Lx3QB8KXLhp7VV4M6g&oe=63302B99",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 853,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301482705_2865786067063322_8420371335345727176_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QT8Wq6NMiSMAX_Q4QOf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIIygty_DHt30p3-gMAZytIzOy6Lx3QB8KXLhp7VV4M6g&oe=63302B99",
+                    "width": 720,
+                    "height": 1280,
+                    "name": "image-3163113417337812"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Kết thúc hành trình",
+            "time": "28/08/2022 20:55:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Má tưởng mua đc",
+            "time": "28/08/2022 21:02:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ai ngờ lại 1 thằng scam",
+            "time": "28/08/2022 21:02:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/uptime",
+            "time": "28/08/2022 21:43:39",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/upt",
+            "time": "28/08/2022 21:44:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "@Tâm Trần",
+            "time": "28/08/2022 21:52:15",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "24/24",
+            "time": "28/08/2022 21:52:18",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 21:54:38",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "460400636003968",
+                    "filename": "image-460400636003968",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301248801_885303929385669_9207654127088500561_n.png?stp=cp0_dst-png_s50x50&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WSAWISbDNOEAX9h-lIO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKL1Th7IatRaFcDPYqhrmkEFHFioowAv2K5pLT3NUDu-w&oe=6330741A",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301248801_885303929385669_9207654127088500561_n.png?stp=dst-png_p280x280&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WSAWISbDNOEAX9h-lIO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLO81xMm7kWNdIrRXNnnlYLoguLJGLMNuXHAWQQ7rccVQ&oe=6330741A",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301248801_885303929385669_9207654127088500561_n.png?stp=dst-png_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WSAWISbDNOEAX9h-lIO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJQN6HSxzDix18UEg-sr0Ae2Dc_aAcxSIL9mCqZHnp4Tg&oe=6330741A",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301248801_885303929385669_9207654127088500561_n.png?stp=dst-png_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WSAWISbDNOEAX9h-lIO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJQN6HSxzDix18UEg-sr0Ae2Dc_aAcxSIL9mCqZHnp4Tg&oe=6330741A",
+                    "width": 576,
+                    "height": 1280,
+                    "name": "image-460400636003968"
+                },
+                {
+                    "type": "photo",
+                    "ID": "1382915945571343",
+                    "filename": "image-1382915945571343",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301607905_867721264632986_3913203923411892192_n.png?stp=cp0_dst-png_s50x50&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=AmCWt3wcM_wAX_iHMv4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJS9UBs3nspdHxD-pzBaRyhgjhkL_TmldSWHIXFsSDLRQ&oe=6332EA26",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301607905_867721264632986_3913203923411892192_n.png?stp=dst-png_p280x280&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=AmCWt3wcM_wAX_iHMv4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJhIdMinNW8vUYhDfH0oiFwkQc2w665zbyg0hcMqySIYg&oe=6332EA26",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301607905_867721264632986_3913203923411892192_n.png?stp=dst-png_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=AmCWt3wcM_wAX_iHMv4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKeB5S1hfFqVg92GMFYdgSieUjpWbhlrHjV8o2hvQwOVg&oe=6332EA26",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301607905_867721264632986_3913203923411892192_n.png?stp=dst-png_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=AmCWt3wcM_wAX_iHMv4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKeB5S1hfFqVg92GMFYdgSieUjpWbhlrHjV8o2hvQwOVg&oe=6332EA26",
+                    "width": 576,
+                    "height": 1280,
+                    "name": "image-1382915945571343"
+                },
+                {
+                    "type": "photo",
+                    "ID": "1654106881642426",
+                    "filename": "image-1654106881642426",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=cp0_dst-png_s50x50&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLwutU0j02TrvlFu-8HHJ73zIJXp-BK0NiIdc0WaoUmyA&oe=6330F228",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=dst-png_p280x280&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLpE8_yhDgbzJmdgHht50COjC7rJoZ_u5It32Pzg8kYAQ&oe=6330F228",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=dst-png_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKE5ejVSKX221U5hgmZgt32UYdYXYdSkwY1HhIf2O5o3w&oe=6330F228",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301354119_3352750654959633_3477287034987265901_n.png?stp=dst-png_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4gFd4DRO4nQAX_oWRTI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKE5ejVSKX221U5hgmZgt32UYdYXYdSkwY1HhIf2O5o3w&oe=6330F228",
+                    "width": 720,
+                    "height": 1600,
+                    "name": "image-1654106881642426"
+                },
+                {
+                    "type": "photo",
+                    "ID": "394486099431921",
+                    "filename": "image-394486099431921",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301024573_749493332944737_7896290569375808183_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XNUJdwWzZr4AX9RizAI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLbdgea82VmLlUT3zG_d_VaZa8uHVsqmWoO_70pQFIqJA&oe=6331072F",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301024573_749493332944737_7896290569375808183_n.jpg?stp=dst-jpg_p280x280&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XNUJdwWzZr4AX9RizAI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIEEeuVLKSwnBT2OcioDzGrW9aJcpVi_EmEl5eW51tIdg&oe=6331072F",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301024573_749493332944737_7896290569375808183_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XNUJdwWzZr4AX9RizAI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVK6GiaVkg9UYhPL6U978yoGv0_y3ErlVtZ3UIVSvGoyHA&oe=6331072F",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301024573_749493332944737_7896290569375808183_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XNUJdwWzZr4AX9RizAI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVK6GiaVkg9UYhPL6U978yoGv0_y3ErlVtZ3UIVSvGoyHA&oe=6331072F",
+                    "width": 720,
+                    "height": 1600,
+                    "name": "image-394486099431921"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Thành quả",
+            "time": "28/08/2022 21:54:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/uptime",
+            "time": "29/08/2022 00:11:23",
+            "attachment": []
+        }
+    ],
+    "100085211131317": [
+        {
+            "type": "message_reply",
+            "message": "===== [ 𝗕𝗢𝗫 ] =====\n\n/box emoji [icon] => đổi icon nhóm\n\n/box name [tên box cần đổi] => đổi tên nhóm\n\n/box image [reply ảnh] => đổi avt nhóm\n\n/box admin [tag] => nó sẽ đưa qtv cho người được tag\n\n/box info => Toàn bộ thông tin của nhóm !\n\n/box new + tag => tạo 1 nhóm mới với những người được tag!\n\n/box id => lấy id box",
+            "time": "27/08/2022 21:50:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎[🍀𝑳𝒖𝒄𝒊𝒇𝒆𝒓'𝒔 🍀] ==> Mọi người ra đón tiếp bạn Cường Trình đã vào nhóm của chúng ta\n[🍀𝑳𝒖𝒄𝒊𝒇𝒆𝒓'𝒔🍀] ==> Chào mừng đã đến với: ❤️Best Friend❤️\n[🍀𝑳𝒖𝒄𝒊𝒇𝒆𝒓'𝒔 🍀] ==> bạn là thành viên thứ 43 của nhóm \n[🍀𝑳𝒖𝒄𝒊𝒇𝒆𝒓'𝒔  🍀] ==> Ngày gia nhập Tối 27/08/2022 || 21:50:18 ❤️",
+            "time": "27/08/2022 21:50:28",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-e9b9b4dd-0e7d-4f04-bba9-7984830d8951-1661611827.mp4",
+                    "ID": "412206867678570",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/286710668_5425772647482869_4089927231797387478_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=HBvcSd3Kkl0AX-UAYYk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJhGuHqP7G4T0PncDrZ5gTIPDmrFlWaG7pjzQZDzcERIw&oe=630B7522",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/301184942_5239891262803060_9165954289087795070_n.mp4/video-e9b9b4dd-0e7d-4f04-bba9-7984830d8951-1661611827.mp4?_nc_cat=105&ccb=1-7&_nc_sid=060d78&_nc_ohc=OX0KTrocLF4AX8E_Wuy&vabr=2225573&_nc_ht=scontent.xx&oh=03_AVLilEI_Wnu5VPywUSBMkxjYgLbgVUJ2FpK_dhEhVTli8A&oe=630B59F4&dl=1",
+                    "width": 576,
+                    "height": 1024,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/286710668_5425772647482869_4089927231797387478_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=HBvcSd3Kkl0AX-UAYYk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJhGuHqP7G4T0PncDrZ5gTIPDmrFlWaG7pjzQZDzcERIw&oe=630B7522"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "[ ThreadUpdate ] Đã cập nhật tên người dùng 100070034413951 thành 『 / 』➺ 𝒍𝒖𝒄𝒊𝒇𝒆𝒓`𝒔",
+            "time": "27/08/2022 21:50:28",
+            "attachment": []
+        }
+    ],
+    "100070034413951": [
+        {
+            "type": "message_reply",
+            "message": "◆━「 𝗕𝗢𝗫 𝗖𝗢𝗡𝗙𝗜𝗚 」━◆\n──────────────\nbox id → Lấy ID của nhóm\n──────────────\nbox name → Lấy tên nhóm\n──────────────\nbox setname < tên > → Đổi tên nhóm\n──────────────\nbox emoji < icon > → Đổi icon nhóm\n──────────────\nbox info → Xem thông tin nhóm\n──────────────\nbox me setqtv → Bot sẽ thêm bạn làm Quản trị viên nhóm\n──────────────\nbox setqtv < tag > → Thêm người dùng làm Quản trị viên nhóm\n──────────────\nbox image < phản hồi ảnh > → Đổi ảnh bìa nhóm\n──────────────\nbox new < tag > → Tạo 1 nhóm mới với những người được tag!\n──────────────\n◆━「 21:50:26 」━◆",
+            "time": "27/08/2022 21:50:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "» Hiện tại đang cấm đổi tên bot",
+            "time": "27/08/2022 21:50:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "〘 𝒍𝒖𝒄𝒊𝒇𝒆𝒓`𝒔 〙➢ 𝗖𝗵𝗶𝗮 𝗯𝘂𝗼̂̀𝗻 𝘃𝗼̛́𝗶 Trần Tâm 𝗸𝗵𝗶 𝗕𝗶̣ 𝗾𝘂𝗮̉𝗻 𝘁𝗿𝗶̣ 𝘃𝗶𝗲̂𝗻 𝗸𝗶𝗰𝗸 𝗸𝗵𝗼̉𝗶 𝗻𝗵𝗼́𝗺\n〘 𝒍𝒖𝒄𝒊𝒇𝒆𝒓`𝒔 〙➢ 𝗛𝗲̣𝗻 𝗴𝗮̣̆𝗽 𝗹𝗮̣𝗶 𝘃𝗮̀ 𝗰𝗮̉𝗺 𝗼̛𝗻 Trần Tâm đ𝗮̃ 𝘁𝘂̛𝗼̛𝗻𝗴 𝘁𝗮́𝗰 𝘁𝗿𝗼𝗻𝗴 𝘁𝗵𝗼̛̀𝗶 𝗴𝗶𝗮𝗻 𝗾𝘂𝗮\n〘𝒍𝒖𝒄𝒊𝒇𝒆𝒓`𝒔〙➢ 𝗩𝗮̀𝗼 𝗹𝘂́𝗰 : 𝑡𝑜̂́𝑖 27/08/2022 || 21:50:32",
+            "time": "27/08/2022 21:50:41",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-2223e72b-aa72-433d-a9c4-8ff711c32fc9-1661611841.mp4",
+                    "ID": "1911128019077241",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/300647794_4383849051740327_2795042159443844975_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=3M4RvX8AYjcAX9C5mQk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKqEWtkmwKsGOGge1eUQIYq3zIMc30cm5OzdLxQePCAiA&oe=630B406A",
+                    "previewWidth": 640,
+                    "previewHeight": 361,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/301824670_5443772105688026_7391743797903230863_n.mp4/video-2223e72b-aa72-433d-a9c4-8ff711c32fc9-1661611841.mp4?_nc_cat=106&ccb=1-7&_nc_sid=060d78&_nc_ohc=HarHFmQGUlYAX8vrv3n&vabr=883816&_nc_ht=scontent.xx&oh=03_AVK_dQCVmVaI16rnMWKQSscdu1OPOIbKWShUj24LJYBOoQ&oe=630B1AFB&dl=1",
+                    "width": 852,
+                    "height": 480,
+                    "duration": 19000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/300647794_4383849051740327_2795042159443844975_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=3M4RvX8AYjcAX9C5mQk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKqEWtkmwKsGOGge1eUQIYq3zIMc30cm5OzdLxQePCAiA&oe=630B406A"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "[👑] 𝒍𝒖𝒄𝒊𝒇𝒆𝒓 [👑] \n[🌸] 𝐊𝐞̂́𝐭 𝐧𝐨̂́𝐢 𝐭𝐡𝐚̀𝐧𝐡 𝐜𝐨̂𝐧𝐠\n[🌸] 𝐏𝐫𝐞𝐟𝐢𝐱: / \n[🌸] 𝐀𝐝𝐦𝐢𝐧: fb.me/User.Lucifer.s.",
+            "time": "27/08/2022 21:50:54",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-29ebd793-c2ce-4a69-b9c8-1c3fbb6c4e23-1661611853.mp4",
+                    "ID": "742441567047370",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/279428397_5112373725510517_2026723001262544864_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=AMthzewA2jwAX_okmuc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIaoG4Tjk5-7VYDL8H2_2-s52afGs6TfnOu8zaU82GdOA&oe=630B5891",
+                    "previewWidth": 640,
+                    "previewHeight": 360,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/10000000_5073214926119031_6844384833927808572_n.mp4/video-29ebd793-c2ce-4a69-b9c8-1c3fbb6c4e23-1661611853.mp4?_nc_cat=105&ccb=1-7&_nc_sid=060d78&_nc_ohc=oYBfAr3HGCYAX8rYB0l&vabr=1429416&_nc_ht=scontent.xx&oh=03_AVKuDWNJhhq1GpBnedawzZy-YxGy7OWR9jgdDRf2jeFjyw&oe=630B2FAC&dl=1",
+                    "width": 1024,
+                    "height": 576,
+                    "duration": 60000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/279428397_5112373725510517_2026723001262544864_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=AMthzewA2jwAX_okmuc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIaoG4Tjk5-7VYDL8H2_2-s52afGs6TfnOu8zaU82GdOA&oe=630B5891"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "Đang ngủ nè hong cho ngủ à 😴",
+            "time": "27/08/2022 21:53:02",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "»🔎 𝐂𝐨́ 6 𝐤𝐞̂́𝐭 𝐪𝐮𝐚̉ 𝐭𝐫𝐮̀𝐧𝐠 𝐯𝐨̛́𝐢 𝐭𝐮̛̀ 𝐤𝐡𝐨𝐚́ 𝐭𝐢̀𝐦 𝐤𝐢𝐞̂́𝐦 𝐜𝐮̉𝐚 𝐛𝐚̣𝐧:\n\n1 - [OFFICIAL MV] VỀ BÊN ANH - Jack (G5R) (4:21)\n\n2 - Về Bên Anh「Lofi Ver.」- Jack x Mihle / Audio Lyric Video (3:49)\n\n3 - VỀ BÊN ANH - Jack (G5R) | MV LYRICS 1 HOUR (1:01:46)\n\n4 - Về Bên Anh - Jack (G5R)『 MV LYRICS』 || Pii (16:42)\n\n5 - Vì đôi lúc anh thấy em giận anh quá nên thôi!  Tổng hợp nhạc lofi siêu chill giúp giải toả tâm trạng (46:41)\n\n6 - Về Bên Anh - Jack x Quanvrox「Lo - Fi Ver」/ Official 1 Hour Version (1:00:53)\n\n» 𝐇𝐚̃𝐲 𝐫𝐞𝐩𝐥𝐲 𝐜𝐡𝐨̣𝐧 𝐦𝐨̣̂𝐭 𝐭𝐫𝐨𝐧𝐠 𝐧𝐡𝐮̛̃𝐧𝐠 𝐭𝐢̀𝐦 𝐤𝐢𝐞̂́𝐦 𝐭𝐫𝐞̂𝐧",
+            "time": "27/08/2022 21:53:22",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "[🎼] ➠ 𝗧𝗜𝗧𝗟𝗘: [OFFICIAL MV] VỀ BÊN ANH - Jack (G5R)\n[📺] ➠ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟: G5R SQUAD Official\n[👀] ➠ 𝗩𝗜𝗘𝗪: 43091933\n[👍] ➠ 𝗟𝗜𝗞𝗘: 371217\n[⏰] ➠ 𝗧𝗜𝗠𝗘: 04:21\n[⏳] ➠ 𝗣𝗥𝗢𝗖𝗘𝗦𝗦𝗜𝗡𝗚 𝗧𝗜𝗠𝗘: 0 giây\n💿===𝐀𝐂𝐄𝐑𝐒 𝐀𝐍𝐆𝐄𝐋𝐄𝐑𝐒===💿",
+            "time": "27/08/2022 21:53:35",
+            "attachment": [
+                {
+                    "type": "audio",
+                    "filename": "audioclip-1661612014000-260661.mp4",
+                    "ID": "AT2tBFJmqO1ldtiOZMC0AEy_KXQz1oom3JD03Mg6Y4NH766YJQClxLfeVSf_P0_vkuZWUpHIcyJiVrKBFdB6V1_NnxRcz0XHDAhHgP9NWNBkfpyvPK3cY0_MwZN85q40sHAJ16NQGsqAXl_Jeu0rohvMiGY",
+                    "audioType": "VOICE_MESSAGE",
+                    "duration": 260661,
+                    "url": "https://cdn.fbsbx.com/v/t59.3654-21/280425856_1171483020283155_7758660625658511766_n.mp4/audioclip-1661612014000-260661.mp4?_nc_cat=100&ccb=1-7&_nc_sid=7272a8&_nc_ohc=TcKo7nZGlBMAX-ft2Cn&_nc_ht=cdn.fbsbx.com&oh=03_AVKEJPni0WcwhHN2TcBfBC_22j6Za9FzYtg5GHvXGvdCoA&oe=630C181C&dl=1",
+                    "isVoiceMail": false
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Nguyễn Trường Giang 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 7 𝗡𝗵𝗲́ 🌸",
+            "time": "27/08/2022 23:46:58",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "1129653167959151",
+                    "filename": "gif-1129653167959151",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "name": "gif-1129653167959151",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=ev_y37W8X_QAX8xT5SJ&_nc_ht=cdn.fbsbx.com&oh=03_AVLaNy4xSeCf3b4TSixMBES1p6EtF1uo78-EpGmvVy9wkQ&oe=630BC923"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: không biết\nĐã thông báo về admin\nTime: 23:46:58",
+            "time": "27/08/2022 23:46:59",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "https://www.facebook.com/User.Lucifer.s",
+            "time": "27/08/2022 23:50:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Khả Tú 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 2 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 07:10:12",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "1450747555407983",
+                    "filename": "gif-1450747555407983",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "name": "gif-1450747555407983",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Em ngoan đấy xứng đáng có được chủ bot của anh :>",
+            "time": "28/08/2022 07:36:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "🛸ㅤㅤㅤ🌏　°　　🌖　•　　.°•　　　🚀 ㅤ✯ ㅤ★ㅤ　*　ㅤ　°　ㅤ　🛰 ㅤ　° ㅤ🪐.　ㅤ　•ㅤ　°ㅤ ★ㅤ　•ㅤ ☄   𝐂𝐨́ 𝐩𝐡𝐚̉𝐢 𝐥𝐚̀ 𝐥𝐞̣̂𝐧𝐡  \"12chd\"  𝐡𝐚𝐲 𝐤𝐡𝐨̂𝐧𝐠  💖? 𝐍𝐚̃𝐨 𝐂𝐮̉𝐚 𝐁𝐚̣𝐧 𝐁𝐢̣ 𝐑𝐨̛𝐢 𝐍𝐞̀ 𝐍𝐡𝐚̣̆𝐭 𝐋𝐚̣𝐢 𝐍𝐡𝐚𝐧𝐡 🧠",
+            "time": "28/08/2022 07:47:11",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "09:21:31",
+            "time": "28/08/2022 07:47:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "━━━[ 𝗨𝗽𝘁𝗶𝗺𝗲 ]━━━ \nUptime: 0 giờ 19 phút 4 giây.\n❯ Tổng người dùng: 82\n❯ Tổng Nhóm: 3\n❯ Cpu đang sử dụng: 3.5%\n❯ Ram đang sử dụng: 148 MB\n❯ Ping: 3846ms\n❯ ID Nhân Vật: 361",
+            "time": "28/08/2022 07:47:37",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "851978372826299",
+                    "filename": "image-851978372826299",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300613124_851978376159632_1798244929658637774_n.png?stp=cp0_dst-png_s64x64&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mlRK783xhZ0AX-ZzHVX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKH5NHsE_bkSzkKUoE2UwSNC93XfBk67gvTLs4gcWxf_Q&oe=632EBC89",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300613124_851978376159632_1798244929658637774_n.png?stp=dst-png_p280x280&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mlRK783xhZ0AX-ZzHVX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIfCd7bLfctsFG6Q13YnhW_5w-ifRvFrd-Z5ETXu9kX8A&oe=632EBC89",
+                    "previewWidth": 840,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300613124_851978376159632_1798244929658637774_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mlRK783xhZ0AX-ZzHVX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKoUom2GhFbPFWzNI-BJT21j7bxn0Rs2a04NlObtzq92g&oe=632EBC89",
+                    "largePreviewWidth": 1440,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300613124_851978376159632_1798244929658637774_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mlRK783xhZ0AX-ZzHVX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKoUom2GhFbPFWzNI-BJT21j7bxn0Rs2a04NlObtzq92g&oe=632EBC89",
+                    "width": 3000,
+                    "height": 1000,
+                    "name": "image-851978372826299"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Các wed cần thiết của cậu chủ nè\nhttps://yaytext.com/vi/%C4%91%E1%BA%ADm-nghi%C3%AAng\nhttps://lelinhtinh.github.io/de4js/\nhttps://pastebin.com/\nhttps://giphy.com/create/gifmaker\nhttps://kitudep.com/chu-dao-nguoc\nhttps://hentaivip.biz/",
+            "time": "28/08/2022 07:47:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Cường Trình 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 8 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 07:48:01",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "1192310441620718",
+                    "filename": "gif-1192310441620718",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "name": "gif-1192310441620718",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "𝐕𝐮𝐢 𝐥𝐨̀𝐧𝐠 𝐜𝐡𝐨̣𝐧 [ 𝐨𝐧 / 𝐨𝐟𝐟 ]",
+            "time": "28/08/2022 07:48:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "» [ 𝐌𝐎𝐃𝐄 ] - 𝐁𝐚̣̂𝐭 𝐦𝐨𝐝𝐞 𝐮𝐧𝐬𝐞𝐧𝐝𝐑𝐞𝐚𝐜𝐭𝐢𝐨𝐧 𝐭𝐡𝐚̀𝐧𝐡 𝐜𝐨̂𝐧𝐠 🖤",
+            "time": "28/08/2022 07:48:58",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "»🔎 𝐂𝐨́ 6 𝐤𝐞̂́𝐭 𝐪𝐮𝐚̉ 𝐭𝐫𝐮̀𝐧𝐠 𝐯𝐨̛́𝐢 𝐭𝐮̛̀ 𝐤𝐡𝐨𝐚́ 𝐭𝐢̀𝐦 𝐤𝐢𝐞̂́𝐦 𝐜𝐮̉𝐚 𝐛𝐚̣𝐧:\n\n1 - Tình Ca Tình Ta - kis「Cukak Remix 」/ Audio Lyrics (3:34)\n\n2 - tình ca tình ta - kis (𝙨𝙡𝙤𝙬𝙚𝙙 + 𝙧𝙚𝙫𝙚𝙧𝙗) /flechazowu/ (3:20)\n\n3 - Nặng Tình Hay Nhẹ Lòng (WRC REMIX) Tống Gia Vỹ / Thà Rằng Người Hãy Nói Hết Để Anh Quay Lưng Bước Đi (4:26)\n\n4 - BIGDADDY x EMILY - Mượn Rượu Tỏ Tình (Official M/V) (3:26)\n\n5 - TÌNH THU SAO HẠ BUỒN | DATKAA x PROD. QT BEATZ | OFFICIAL MUSIC VIDEO (5:09)\n\n6 - 'tình ca tình ta' - kis (official audio) (2:55)\n\n» 𝐇𝐚̃𝐲 𝐫𝐞𝐩𝐥𝐲 𝐜𝐡𝐨̣𝐧 𝐦𝐨̣̂𝐭 𝐭𝐫𝐨𝐧𝐠 𝐧𝐡𝐮̛̃𝐧𝐠 𝐭𝐢̀𝐦 𝐤𝐢𝐞̂́𝐦 𝐭𝐫𝐞̂𝐧",
+            "time": "28/08/2022 07:56:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "hí hí bot chào cậu nha,nay cậu ngoan rồi đấy, chứ hôm bữa hư quá",
+            "time": "28/08/2022 08:07:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Chang Chang 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 2 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 08:29:45",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "603529538139238",
+                    "filename": "gif-603529538139238",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "name": "gif-603529538139238",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "»🔎 𝐂𝐨́ 6 𝐤𝐞̂́𝐭 𝐪𝐮𝐚̉ 𝐭𝐫𝐮̀𝐧𝐠 𝐯𝐨̛́𝐢 𝐭𝐮̛̀ 𝐤𝐡𝐨𝐚́ 𝐭𝐢̀𝐦 𝐤𝐢𝐞̂́𝐦 𝐜𝐮̉𝐚 𝐛𝐚̣𝐧:\n\n1 - [OFFICIAL MV] VỀ BÊN ANH - Jack (G5R) (4:21)\n\n2 - Về Bên Anh「Lofi Ver.」- Jack x Mihle / Audio Lyric Video (3:49)\n\n3 - Về Bên Anh - Jack (G5R)『 MV LYRICS』 || Pii (16:42)\n\n4 - PBN 127 | Bằng Kiều - Về Bên Anh Nhé (5:16)\n\n5 - Về Bên Anh - Jack (G5R) | Hương Ly Cover (3:57)\n\n6 - Về Bên Anh , Cảm Ơn Vì Tất Cả... | Tổng Hợp bài hát Lofi chill cực hay 2022 (42:21)\n\n» 𝐇𝐚̃𝐲 𝐫𝐞𝐩𝐥𝐲 𝐜𝐡𝐨̣𝐧 𝐦𝐨̣̂𝐭 𝐭𝐫𝐨𝐧𝐠 𝐧𝐡𝐮̛̃𝐧𝐠 𝐭𝐢̀𝐦 𝐤𝐢𝐞̂́𝐦 𝐭𝐫𝐞̂𝐧",
+            "time": "28/08/2022 08:38:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Hoàng Linh 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 2 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 08:52:15",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "7867015200006930",
+                    "filename": "gif-7867015200006930",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "name": "gif-7867015200006930",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "hí hí bot chào cậu nha,nay cậu ngoan rồi đấy, chứ hôm bữa hư quá",
+            "time": "28/08/2022 08:56:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "bỏ cái icon đó đi, sao cậu không yêu tớ thay vì thả icon đó",
+            "time": "28/08/2022 08:58:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ":Đ",
+            "time": "28/08/2022 09:00:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Trương Vỹ 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 2 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 09:00:07",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "1204847757027888",
+                    "filename": "gif-1204847757027888",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "name": "gif-1204847757027888",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "◆━「 𝗕𝗢𝗫 𝗖𝗢𝗡𝗙𝗜𝗚 」━◆\n──────────────\nbox id → Lấy ID của nhóm\n──────────────\nbox name → Lấy tên nhóm\n──────────────\nbox setname < tên > → Đổi tên nhóm\n──────────────\nbox emoji < icon > → Đổi icon nhóm\n──────────────\nbox info → Xem thông tin nhóm\n──────────────\nbox me setqtv → Bot sẽ thêm bạn làm Quản trị viên nhóm\n──────────────\nbox setqtv < tag > → Thêm người dùng làm Quản trị viên nhóm\n──────────────\nbox image < phản hồi ảnh > → Đổi ảnh bìa nhóm\n──────────────\nbox new < tag > → Tạo 1 nhóm mới với những người được tag!\n──────────────\n◆━「 09:51:01 」━◆",
+            "time": "28/08/2022 09:51:01",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "11:25:58",
+            "time": "28/08/2022 09:51:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "━━━[ 𝗨𝗽𝘁𝗶𝗺𝗲 ]━━━ \nUptime: 2 giờ 23 phút 30 giây.\n❯ Tổng người dùng: 82\n❯ Tổng Nhóm: 3\n❯ Cpu đang sử dụng: 2.0%\n❯ Ram đang sử dụng: 184 MB\n❯ Ping: 2550ms\n❯ ID Nhân Vật: 423",
+            "time": "28/08/2022 09:52:02",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "483813803531959",
+                    "filename": "image-483813803531959",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301007714_483813806865292_2740885812651558497_n.png?stp=cp0_dst-png_s64x64&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbucsPoRX-4AX8-wqfE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIDniOugDWfwpUqiOyha--LqyVEF_ciQOo-NudkO2Gxsg&oe=6331F7A6",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301007714_483813806865292_2740885812651558497_n.png?stp=dst-png_p280x280&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbucsPoRX-4AX8-wqfE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKOCv-Zti2RhRTyZy6OUuu-uhZw6tR-_CW_v1yg52H8cw&oe=6331F7A6",
+                    "previewWidth": 840,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301007714_483813806865292_2740885812651558497_n.png?stp=dst-png_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbucsPoRX-4AX8-wqfE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLSWZjZSwwgEKMaYjMFCxcfIufaD_rANKx64t9mmxrf0w&oe=6331F7A6",
+                    "largePreviewWidth": 1440,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301007714_483813806865292_2740885812651558497_n.png?stp=dst-png_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbucsPoRX-4AX8-wqfE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLSWZjZSwwgEKMaYjMFCxcfIufaD_rANKx64t9mmxrf0w&oe=6331F7A6",
+                    "width": 3000,
+                    "height": 1000,
+                    "name": "image-483813803531959"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "» Danh sách lệnh hiện có «\n\n1. » TIỆN ÍCH \n2. » KIẾN THỨC HỌC HỎI \n3. » GAME \n4. » CÔNG CỤ \n5. » MINIGAME \n6. » HÌNH ẢNH \n7. » ADMIN \n8. » NHÓM \n9. » RANDOM-IMG ALIME \n10. » MEDIA \n11. » BOX CHAT \n12. » DÀNH CHO ADMIN \n13. » BOX \n14. » NSFW \n15. » RANDOM-IMG \n16. » GROUP \n17. » THÀNH VIÊN \n18. » EDIT-IMAGES \n19. » EDIT-IMG \n20. » TRÒ CHƠI \n21. » MONEY \n22. » QTV \n23. » KIẾM MONEY \n24. » HỆ THỐNG \n25. » THÔNG TIN \n26. » DVFB \n27. » A \n28. » GAMES \n29. » GỌI HỒN \n30. » TAG \n31. » PHƯƠNG TIỆN \n32. » LỆNH 18+ \n33. » STUDY \n34. » TẠO ẢNH \n35. » GAME ONLINE \n36. » GIẢI TRÍ \n37. » QTV-BOX \n38. » OTHER \n39. » TÌNH YÊU \n40. » GAME-MP \n41. » RANDOM-IMG 18+ \n42. » NGƯỜI HỖ TRỢ BOT \n43. » CONFIG \n44. » SYSTEM \n45. » INFO \n46. » KHÔNG CẦN DẤU LỆNH \n47. » BỔ NÃO \n48. » BANNER \n49. » ECONOMY \n50. » HORIZON PREMIUM \n51. » CHAT CÙNG SIM, NINO \n52. » TÀI KHOẢN \n53. » COINS \n54. » DÀNH CHO NGƯỜI DÙNG \n55. » 18+ \n56. » LIÊN QUÂN MOBILE \n57. » HOROSCOPE \n58. » NOTHING \n59. » HẸN HÒ \n60. » KIẾM TIỀN \n\nTrang【1/1】\nĐể xem các trang khác, dùng: /menu [số trang]\nBạn có thể dùng /menu all để xem tất cả lệnh\n╭──────╮\n       Reply \n╰──────╯ tin nhắn theo số để xem các lệnh theo phân loại",
+            "time": "28/08/2022 09:53:01",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "932990307652501",
+                    "filename": "image-932990307652501",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276158886_5055914831183997_7757626276491015905_n.gif?stp=cp0_dst-gif_s64x64&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GOQqY1_g5U4AX-GBWHq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLkzYnZAsMMlqNcPrggUj7KwbuZeN_U3lI-1VJsLOX7eg&oe=63317484",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276158886_5055914831183997_7757626276491015905_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GOQqY1_g5U4AX-GBWHq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJnygsRxtJHFcoS4R-Z6wgp2m5yIoTc8fe5zulDBgUVEg&oe=63317484",
+                    "previewWidth": 500,
+                    "previewHeight": 220,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276158886_5055914831183997_7757626276491015905_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GOQqY1_g5U4AX-GBWHq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJnygsRxtJHFcoS4R-Z6wgp2m5yIoTc8fe5zulDBgUVEg&oe=63317484",
+                    "largePreviewWidth": 500,
+                    "largePreviewHeight": 220,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276158886_5055914831183997_7757626276491015905_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GOQqY1_g5U4AX-GBWHq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJnygsRxtJHFcoS4R-Z6wgp2m5yIoTc8fe5zulDBgUVEg&oe=63317484",
+                    "width": 500,
+                    "height": 220,
+                    "name": "image-932990307652501"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "» ADMIN «\n\n 1. » resetmoney: Reset số tiền của cả nhóm về 0\n 2. » acp: Kết bạn qua id Facebook\n 3. » adc: Áp dụng code từ buildtooldev và pastebin\n 4. » admin: Admin Config\n 5. » allbox: [Ban/Unban/Del/Remove] List[Data] thread bot đã tham gia\n 6. » banned: xem danh sách nhóm hoặc người dùng bị cấm\n 7. » cache: Xóa file hoặc folder trong thư mục cache\n 8. » caidatv2: config bot!\n 9. » callad: thông báo lỗi của bot đến admin hoặc góp ý\n 10. » codev2: Làm 1 cái gì đó trong commands\n 11. » config: tải lại dữ liệu file config\n 12. » datauser: Set dữ liệu mới của các user vào data\n 13. » duyệt: Quản lý tin nhắn chờ của bot\n 14. » file: Xóa file hoặc folder trong thư mục commands\n 15. » givefile: \n 16. » list: List thread or user\n 17. » newfeed: Tạo bài viết mới ở acc bot\n 18. » outall: Gửi tin nhắn tới các nhóm!\n 19. » qtv: Quản lý admin bot\n 20. » reset: Khởi động lại Bot\n 21. » savemsg: Lưu lịch sử tin nhắn nhưng mà bằng file\n 22. » send: Gửi tin nhắn tới các nhóm(reply vào ảnh/video cần gửi kèm)!\nPhiên bản xịn hơn của sendnotiUwU\n 23. » setluot: set lượt dùng bot\n 24. » thamgia: Tham gia vào các box Bot đang ở\n\n╭──────╮\n    Reply \n╰──────╯ tin nhắn theo số để xem thông tin chi tiết lệnh và cách sử dụng lệnh",
+            "time": "28/08/2022 09:53:23",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "765296294724735",
+                    "filename": "image-765296294724735",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/275928915_301025652163324_5089237699020385733_n.gif?stp=cp0_dst-gif_p34x34&_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=IaC3b-QWrMQAX_b2kDm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJN5JkzxP2RWU0R_XCwAc5-EArsaeozq0ms4S6lk3nDmw&oe=632E9C63",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/275928915_301025652163324_5089237699020385733_n.gif?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=IaC3b-QWrMQAX_b2kDm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJQSlTSak4fjmdK9qky70clPEtNZuRJx1ETuKLGObSU4Q&oe=632E9C63",
+                    "previewWidth": 500,
+                    "previewHeight": 274,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/275928915_301025652163324_5089237699020385733_n.gif?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=IaC3b-QWrMQAX_b2kDm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJQSlTSak4fjmdK9qky70clPEtNZuRJx1ETuKLGObSU4Q&oe=632E9C63",
+                    "largePreviewWidth": 500,
+                    "largePreviewHeight": 274,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/275928915_301025652163324_5089237699020385733_n.gif?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=IaC3b-QWrMQAX_b2kDm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJQSlTSak4fjmdK9qky70clPEtNZuRJx1ETuKLGObSU4Q&oe=632E9C63",
+                    "width": 500,
+                    "height": 274,
+                    "name": "image-765296294724735"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "『  ADMIN   』   \n\nTên lệnh: admin\nMô tả: Admin Config\nCách sử dụng: Admin\nThời gian chờ: 2s\nQuyền hạn: Người dùng\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n\n» Module code by Mirai Team «",
+            "time": "28/08/2022 09:53:42",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1786374275041606",
+                    "filename": "image-1786374275041606",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276146612_634720410965759_628922188045582965_n.gif?stp=cp0_dst-gif_p34x34&_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rZbovwqjYb8AX_-oECG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLepuLFuAfUvetDi4zLBq-4JzO3E744GvvdzHhmpLOn1A&oe=632F7C94",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276146612_634720410965759_628922188045582965_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rZbovwqjYb8AX_-oECG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJ_gk5uricOtKFIXWp5U5I7rf5xK8QH1S8iMrD99gIBXg&oe=632F7C94",
+                    "previewWidth": 268,
+                    "previewHeight": 300,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276146612_634720410965759_628922188045582965_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rZbovwqjYb8AX_-oECG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJ_gk5uricOtKFIXWp5U5I7rf5xK8QH1S8iMrD99gIBXg&oe=632F7C94",
+                    "largePreviewWidth": 268,
+                    "largePreviewHeight": 300,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/276146612_634720410965759_628922188045582965_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rZbovwqjYb8AX_-oECG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJ_gk5uricOtKFIXWp5U5I7rf5xK8QH1S8iMrD99gIBXg&oe=632F7C94",
+                    "width": 268,
+                    "height": 300,
+                    "name": "image-1786374275041606"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "[!] Lệnh bạn đang sử dụng không đúng cú pháp, vui lòng sử dụng /help admin để biết thêm chi tiết cách sử dụng",
+            "time": "28/08/2022 10:33:47",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "» 𝐕𝐮̛̀𝐚 𝐭𝐚̉𝐢 𝐭𝐡𝐚̀𝐧𝐡 𝐜𝐨̂𝐧𝐠 1 𝐥𝐞̣̂𝐧𝐡 🌸",
+            "time": "28/08/2022 10:34:01",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Đã reload thành công config.json",
+            "time": "28/08/2022 10:34:13",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Đ𝐨̂̀ 𝐧𝐠𝐨̂́𝐜 !! 𝐒𝐚𝐢 𝐥𝐞̣̂𝐧𝐡 𝐫𝐨̂̀𝐢 𝐧𝐞̀ <𝟑\n💸───🌺𝑳𝒖𝒄𝒊𝒇𝒆𝒓'𝒔🌺───💸\n❤Nguyễn Trường Giang ❤ ☾Cờ đến tay ai người ấy phất☽",
+            "time": "28/08/2022 10:34:20",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1180076705892182",
+                    "filename": "image-1180076705892182",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248722982_416223436729140_864704554436036166_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mKZHwplFdlQAX9cLYiB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVI3GwmWu6Z8zpyPoNDlIv9kEljo2PsRIBLf1IX6i7XMCQ&oe=63302623",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248722982_416223436729140_864704554436036166_n.jpg?stp=dst-jpg_p280x280&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mKZHwplFdlQAX9cLYiB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIqt4C6CrxLS-KGXaBaYTMSzbJCfWw5kvS3s4usH6TFVw&oe=63302623",
+                    "previewWidth": 280,
+                    "previewHeight": 498,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248722982_416223436729140_864704554436036166_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mKZHwplFdlQAX9cLYiB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVI4ULdY9wgcN0EtfoSUMyqDFfSnHhEL1mIAfA1_R-4H5A&oe=63302623",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 854,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248722982_416223436729140_864704554436036166_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mKZHwplFdlQAX9cLYiB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVI4ULdY9wgcN0EtfoSUMyqDFfSnHhEL1mIAfA1_R-4H5A&oe=63302623",
+                    "width": 526,
+                    "height": 936,
+                    "name": "image-1180076705892182"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": ":Đ",
+            "time": "28/08/2022 11:51:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Minh Khánh 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 2 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 11:51:09",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "466133585366979",
+                    "filename": "gif-466133585366979",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "name": "gif-466133585366979",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "hi cậu nhé mới gặp nhau đã ừm rồi chán ghê á",
+            "time": "28/08/2022 11:56:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "🛸ㅤㅤㅤ🌏　°　　🌖　•　　.°•　　　🚀 ㅤ✯ ㅤ★ㅤ　*　ㅤ　°　ㅤ　🛰 ㅤ　° ㅤ🪐.　ㅤ　•ㅤ　°ㅤ ★ㅤ　•ㅤ ☄   𝐂𝐨́ 𝐩𝐡𝐚̉𝐢 𝐥𝐚̀ 𝐥𝐞̣̂𝐧𝐡  \"12chd\"  𝐡𝐚𝐲 𝐤𝐡𝐨̂𝐧𝐠  💖? 𝐍𝐚̃𝐨 𝐂𝐮̉𝐚 𝐁𝐚̣𝐧 𝐁𝐢̣ 𝐑𝐨̛𝐢 𝐍𝐞̀ 𝐍𝐡𝐚̣̆𝐭 𝐋𝐚̣𝐢 𝐍𝐡𝐚𝐧𝐡 🧠",
+            "time": "28/08/2022 11:59:59",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "13:34:17",
+            "time": "28/08/2022 12:00:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "━━━[ 𝗨𝗽𝘁𝗶𝗺𝗲 ]━━━ \nUptime: 4 giờ 32 phút 35 giây.\n❯ Tổng người dùng: 82\n❯ Tổng Nhóm: 3\n❯ Cpu đang sử dụng: 0.6%\n❯ Ram đang sử dụng: 211 MB\n❯ Ping: 2515ms\n❯ ID Nhân Vật: 772",
+            "time": "28/08/2022 12:01:07",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1824422197949558",
+                    "filename": "image-1824422197949558",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300795177_1824422204616224_1183031002244230605_n.png?stp=cp0_dst-png_s64x64&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=BfY8rO1CxbQAX8LcTSn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKSenr8PBR8xh2O67Oi7UuUMEyMbLYqKDv1ZoLwhp_efw&oe=63322363",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300795177_1824422204616224_1183031002244230605_n.png?stp=dst-png_p280x280&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=BfY8rO1CxbQAX8LcTSn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKAMjo0K0TlP1ymej6ZTaW_inH8Fu489bHyu1-nEop70w&oe=63322363",
+                    "previewWidth": 840,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300795177_1824422204616224_1183031002244230605_n.png?stp=dst-png_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=BfY8rO1CxbQAX8LcTSn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKFrLl1pVNrH8izBJfvWLXv95yB7kOFKAx8fx_-jAnxzg&oe=63322363",
+                    "largePreviewWidth": 1440,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300795177_1824422204616224_1183031002244230605_n.png?stp=dst-png_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=BfY8rO1CxbQAX8LcTSn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKFrLl1pVNrH8izBJfvWLXv95yB7kOFKAx8fx_-jAnxzg&oe=63322363",
+                    "width": 3000,
+                    "height": 1000,
+                    "name": "image-1824422197949558"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Nguyễn Trường Giang 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 8 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 12:57:01",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "872014853975091",
+                    "filename": "gif-872014853975091",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "name": "gif-872014853975091",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKXmXgRf--HBb3DydYV42QLGfuS-sf_rXAqXDWXnDYXEg&oe=630C71E3"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: chơi game\nĐã thông báo về admin\nTime: 12:57:01",
+            "time": "28/08/2022 12:57:01",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Đ𝐨̂̀ 𝐧𝐠𝐨̂́𝐜 !! 𝐒𝐚𝐢 𝐥𝐞̣̂𝐧𝐡 𝐫𝐨̂̀𝐢 𝐧𝐞̀ <𝟑\n💸───🌺𝑳𝒖𝒄𝒊𝒇𝒆𝒓'𝒔🌺───💸\n❤Nguyễn Trường Giang ❤ ☾Chưa khỏi rên đã quên thầy.☽",
+            "time": "28/08/2022 20:09:49",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1064458850939087",
+                    "filename": "image-1064458850939087",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248946261_909134783028422_494319966156663229_n.jpg?stp=cp0_dst-jpg_p34x34&_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-W_St7BVN2gAX8-G4wv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJwV36Erb7u2-85yYk7Eun5-Z5vKmUKy84eMdRGNPgucw&oe=632F49BF",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248946261_909134783028422_494319966156663229_n.jpg?stp=dst-jpg_p280x280&_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-W_St7BVN2gAX8-G4wv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIy3U0NxSfWt_uupIed1akE7q2jlYseTx3IdGgXqTD8iA&oe=632F49BF",
+                    "previewWidth": 280,
+                    "previewHeight": 373,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248946261_909134783028422_494319966156663229_n.jpg?stp=dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-W_St7BVN2gAX8-G4wv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJ96KOWbjTwLtYwnb_tCZbD-x9cGXsR89YGe_LQ5MpZ7Q&oe=632F49BF",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/248946261_909134783028422_494319966156663229_n.jpg?stp=dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=-W_St7BVN2gAX8-G4wv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJ96KOWbjTwLtYwnb_tCZbD-x9cGXsR89YGe_LQ5MpZ7Q&oe=632F49BF",
+                    "width": 526,
+                    "height": 701,
+                    "name": "image-1064458850939087"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "━━━[ 𝗨𝗽𝘁𝗶𝗺𝗲 ]━━━ \nUptime: 6 giờ 22 phút 56 giây.\n❯ Tổng người dùng: 82\n❯ Tổng Nhóm: 3\n❯ Cpu đang sử dụng: 0.0%\n❯ Ram đang sử dụng: 162 MB\n❯ Ping: 2898ms\n❯ ID Nhân Vật: 738",
+            "time": "28/08/2022 20:10:01",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1079032532716232",
+                    "filename": "image-1079032532716232",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301022099_1079032542716231_3003978717272485950_n.png?stp=cp0_dst-png_s64x64&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rOkfLCAynYkAX_0-ltz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLbsbp2TQyHUg2QM-8VKe1e7XQxGMHQFZJsMlEXW8q7Vw&oe=63321FDD",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301022099_1079032542716231_3003978717272485950_n.png?stp=dst-png_p280x280&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rOkfLCAynYkAX_0-ltz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIT2EdMOiQ3BDy7f4Mh2IeGOScayGRUGJbp8Tcb6KI_6g&oe=63321FDD",
+                    "previewWidth": 840,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301022099_1079032542716231_3003978717272485950_n.png?stp=dst-png_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rOkfLCAynYkAX_0-ltz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLt-bFYqBGYnqAvBQiAMOlM1TESfgZnse8vWE9RxApbRg&oe=63321FDD",
+                    "largePreviewWidth": 1440,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301022099_1079032542716231_3003978717272485950_n.png?stp=dst-png_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rOkfLCAynYkAX_0-ltz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLt-bFYqBGYnqAvBQiAMOlM1TESfgZnse8vWE9RxApbRg&oe=63321FDD",
+                    "width": 3000,
+                    "height": 1000,
+                    "name": "image-1079032532716232"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Hoàng Linh 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 3 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 21:18:00",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "660126978345361",
+                    "filename": "gif-660126978345361",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "name": "gif-660126978345361",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "━━━[ 𝗨𝗽𝘁𝗶𝗺𝗲 ]━━━ \nUptime: 7 giờ 56 phút 40 giây.\n❯ Tổng người dùng: 82\n❯ Tổng Nhóm: 3\n❯ Cpu đang sử dụng: 0.0%\n❯ Ram đang sử dụng: 198 MB\n❯ Ping: 1901ms\n❯ ID Nhân Vật: 246",
+            "time": "28/08/2022 21:43:45",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1473082836487925",
+                    "filename": "image-1473082836487925",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301041604_1473082843154591_1681270092017939014_n.png?stp=cp0_dst-png_s64x64&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QJwBWlfcE4UAX-E6Jsx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIGcwnQsTquUbQE-lFTcyxcgKykwJiiiXbBtvxOYSmcnw&oe=632F89ED",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301041604_1473082843154591_1681270092017939014_n.png?stp=dst-png_p280x280&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QJwBWlfcE4UAX-E6Jsx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIB8Ti7zZ4MjSq7rVvQicqaDt2at2LxIgNhU4T0UAXP5g&oe=632F89ED",
+                    "previewWidth": 840,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301041604_1473082843154591_1681270092017939014_n.png?stp=dst-png_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QJwBWlfcE4UAX-E6Jsx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJopeBXW-4njq1v-p8K3qDidwJbTgt9aS__U2bRgZ8yqg&oe=632F89ED",
+                    "largePreviewWidth": 1440,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301041604_1473082843154591_1681270092017939014_n.png?stp=dst-png_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QJwBWlfcE4UAX-E6Jsx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJopeBXW-4njq1v-p8K3qDidwJbTgt9aS__U2bRgZ8yqg&oe=632F89ED",
+                    "width": 3000,
+                    "height": 1000,
+                    "name": "image-1473082836487925"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "19:46:54",
+            "time": "28/08/2022 21:44:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "‎🌸 𝗖𝗵𝘂́𝗰 𝗠𝘂̛̀𝗻𝗴 Nguyễn Trường Giang 𝗕𝗮̣𝗻 𝗩𝘂̛̀𝗮 𝗧𝗶𝗲̂́𝗻 𝗟𝗲̂𝗻 𝗟𝗲𝘃𝗲𝗹 9 𝗡𝗵𝗲́ 🌸",
+            "time": "28/08/2022 21:54:47",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "578116977340306",
+                    "filename": "gif-578116977340306",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "previewWidth": 500,
+                    "previewHeight": 281,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "width": 500,
+                    "height": 281,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "name": "gif-578116977340306",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/273888013_990574358536812_2176575287211196065_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=041f46&_nc_ohc=WThHtvtvunAAX9pTdfN&_nc_ht=cdn.fbsbx.com&oh=03_AVKixLietaWneh__0kFQf2XmZJjt6NBS0Qd95YkP5Y6k3w&oe=630D1AA3"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "message": "Status: bận\nReason: tán crush rồi\nĐã thông báo về admin\nTime: 21:54:47",
+            "time": "28/08/2022 21:54:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "━━━[ 𝗨𝗽𝘁𝗶𝗺𝗲 ]━━━ \nUptime: 10 giờ 24 phút 24 giây.\n❯ Tổng người dùng: 82\n❯ Tổng Nhóm: 3\n❯ Cpu đang sử dụng: 0.0%\n❯ Ram đang sử dụng: 235 MB\n❯ Ping: 2393ms\n❯ ID Nhân Vật: 8",
+            "time": "29/08/2022 00:11:29",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "3206016262899829",
+                    "filename": "image-3206016262899829",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301227804_3206016266233162_4189487364227855260_n.png?stp=cp0_dst-png_s64x64&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6TaMFPh0-Y8AX8NEgBp&_nc_oc=AQmS88DpkQ_q1_ethcngUK80IlQDeyprx_yr_9LaomfmunL7lNSrCLwWXwunyd5UHno&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKF4krV5Mf7vIrgDKKT779I_kzWp7Uryc5X8JdW4aoNIw&oe=63312A4F",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301227804_3206016266233162_4189487364227855260_n.png?stp=dst-png_p280x280&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6TaMFPh0-Y8AX8NEgBp&_nc_oc=AQmS88DpkQ_q1_ethcngUK80IlQDeyprx_yr_9LaomfmunL7lNSrCLwWXwunyd5UHno&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIbUYghQwPAIYLN6XynTrZCbNGVRAVlC8PZkvA7DkfF6w&oe=63312A4F",
+                    "previewWidth": 840,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301227804_3206016266233162_4189487364227855260_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6TaMFPh0-Y8AX8NEgBp&_nc_oc=AQmS88DpkQ_q1_ethcngUK80IlQDeyprx_yr_9LaomfmunL7lNSrCLwWXwunyd5UHno&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVL0hLjiTjbe8u-9rknCr9eL_acMruuqLYtpRDyVoi6Ukg&oe=63312A4F",
+                    "largePreviewWidth": 1440,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301227804_3206016266233162_4189487364227855260_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6TaMFPh0-Y8AX8NEgBp&_nc_oc=AQmS88DpkQ_q1_ethcngUK80IlQDeyprx_yr_9LaomfmunL7lNSrCLwWXwunyd5UHno&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVL0hLjiTjbe8u-9rknCr9eL_acMruuqLYtpRDyVoi6Ukg&oe=63312A4F",
+                    "width": 3000,
+                    "height": 1000,
+                    "name": "image-3206016262899829"
+                }
+            ]
+        }
+    ],
+    "100055152579851": [
+        {
+            "type": "message",
+            "message": "",
+            "time": "27/08/2022 22:26:19",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "5605409816177992",
+                    "filename": "image-5605409816177992",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=cp0_dst-jpg_s64x64&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKmekp-Bp2p89LyfJCSqiW8srQwC_ose7YwsXIDrlIxVQ&oe=63305FB2",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=dst-jpg_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKKe5JuYbTCYz48WH9P4mAxUrmDf6VmpWDd8IQudcif_A&oe=63305FB2",
+                    "previewWidth": 622,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLG6ckl1UkfmLbE4KUCLKlVTTgiCr1yt-G6nhETd08wlg&oe=63305FB2",
+                    "largePreviewWidth": 1067,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLG6ckl1UkfmLbE4KUCLKlVTTgiCr1yt-G6nhETd08wlg&oe=63305FB2",
+                    "width": 1600,
+                    "height": 720,
+                    "name": "image-5605409816177992"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Chs game bắn fulll vàng vẫn bị khía",
+            "time": "27/08/2022 22:26:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Khóa",
+            "time": "27/08/2022 22:26:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "@Duy Van Tran  em xin phép tuần này ko cày nha anh",
+            "time": "28/08/2022 08:05:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 08:05:10",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1147992379127888",
+                    "filename": "image-1147992379127888",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=cp0_dst-jpg_s64x64&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKmekp-Bp2p89LyfJCSqiW8srQwC_ose7YwsXIDrlIxVQ&oe=63305FB2",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=dst-jpg_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKKe5JuYbTCYz48WH9P4mAxUrmDf6VmpWDd8IQudcif_A&oe=63305FB2",
+                    "previewWidth": 622,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLG6ckl1UkfmLbE4KUCLKlVTTgiCr1yt-G6nhETd08wlg&oe=63305FB2",
+                    "largePreviewWidth": 1067,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300794547_387315566813889_4581490586648528371_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EEtZcUlpvN8AX8j0-E4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLG6ckl1UkfmLbE4KUCLKlVTTgiCr1yt-G6nhETd08wlg&oe=63305FB2",
+                    "width": 1600,
+                    "height": 720,
+                    "name": "image-1147992379127888"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Cuộc sống bắn máu vàng vẫn bị khóa",
+            "time": "28/08/2022 08:05:31",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Anh duy kick hết rồi",
+            "time": "28/08/2022 08:06:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Vg",
+            "time": "28/08/2022 08:07:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Cho em xin id qd",
+            "time": "28/08/2022 08:11:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Cj chang duyệt em ik",
+            "time": "28/08/2022 08:13:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Chán quá nhỉ cj khánh tuần này em ko cày dc .tuần sau phạt em nha",
+            "time": "28/08/2022 08:52:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "@Khánh Minh  tuần sau phạt em  thêm nha",
+            "time": "28/08/2022 08:55:43",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Vg",
+            "time": "28/08/2022 08:56:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Kiếm mượn ai cái acc để cày qd",
+            "time": "28/08/2022 08:57:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "@mọi người  bữa  sau em có off game thì đừng quên em nha",
+            "time": "28/08/2022 11:50:53",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Cuối cấp rồi em",
+            "time": "28/08/2022 11:54:51",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Ừ mới nói nghỉ",
+            "time": "28/08/2022 11:57:55",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Mỗi êm ko nhớ thôi",
+            "time": "28/08/2022 11:58:10",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Hỏi ik",
+            "time": "28/08/2022 12:00:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "@mọi người  cứu em",
+            "time": "28/08/2022 15:42:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ai biết làm bài thơ sang thu ko",
+            "time": "28/08/2022 15:43:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Lớp 9 á",
+            "time": "28/08/2022 15:43:04",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Cô",
+            "time": "28/08/2022 15:43:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Em đang trên lớp",
+            "time": "28/08/2022 15:43:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 21:17:48",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "3208621266058184",
+                    "filename": "image-3208621266058184",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300376704_415052634050960_1463494042298960681_n.jpg?stp=cp0_dst-jpg_s64x64&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yJh55jeNv0gAX8BYvgx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVInkLdW9DXO3bJNf_Y3D2EK6386JhRRb-I3MllddqA0Vg&oe=632F3751",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300376704_415052634050960_1463494042298960681_n.jpg?stp=dst-jpg_p280x280&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yJh55jeNv0gAX8BYvgx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLRmQuSNJ2sOjeuJLt_fiwgfFPC3y09mPcEOaO1G2ttPQ&oe=632F3751",
+                    "previewWidth": 622,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300376704_415052634050960_1463494042298960681_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yJh55jeNv0gAX8BYvgx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVImbniKfwvtxrpxI4ZkezDPQqIBlKHXdLV50Ispe2Pcpw&oe=632F3751",
+                    "largePreviewWidth": 1067,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/300376704_415052634050960_1463494042298960681_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yJh55jeNv0gAX8BYvgx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVImbniKfwvtxrpxI4ZkezDPQqIBlKHXdLV50Ispe2Pcpw&oe=632F3751",
+                    "width": 1600,
+                    "height": 720,
+                    "name": "image-3208621266058184"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Trở lại",
+            "time": "28/08/2022 21:17:56",
+            "attachment": []
+        }
+    ],
+    "100046183314143": [
+        {
+            "type": "message",
+            "message": "ghê z",
+            "time": "27/08/2022 23:45:52",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "1030284229",
+            "time": "28/08/2022 08:11:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "mấy cái đứa kì kịu này bất tài vô dụng lắm e",
+            "time": "28/08/2022 08:12:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "cái id qd ko nhớ đâu",
+            "time": "28/08/2022 08:12:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "đc",
+            "time": "28/08/2022 18:03:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "mất r",
+            "time": "28/08/2022 18:12:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 22:33:30",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "778566900010018",
+                    "filename": "image-778566900010018",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301925682_778566903343351_1070320692117010168_n.jpg?stp=cp0_dst-jpg_s64x64&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8hVo4AP0CkgAX_Guy4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLryg--TushHm6MwcppjiF8jX9EzP0W2xXok5PtiiN_Ug&oe=6332C1AC",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301925682_778566903343351_1070320692117010168_n.jpg?stp=dst-jpg_p280x280&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8hVo4AP0CkgAX_Guy4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLvjmryaTD8jiPej9JCF6RPt3NE_sZGzQVWEvxJj3jIvw&oe=6332C1AC",
+                    "previewWidth": 606,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301925682_778566903343351_1070320692117010168_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8hVo4AP0CkgAX_Guy4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLIda5ZC98JXqCMfmlvk-wsYYbzEcAFuS-FZKuOZsZAog&oe=6332C1AC",
+                    "largePreviewWidth": 1039,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301925682_778566903343351_1070320692117010168_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8hVo4AP0CkgAX_Guy4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLIda5ZC98JXqCMfmlvk-wsYYbzEcAFuS-FZKuOZsZAog&oe=6332C1AC",
+                    "width": 1792,
+                    "height": 828,
+                    "name": "image-778566900010018"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "@Minh Khánh",
+            "time": "28/08/2022 22:33:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "chị khánh sốc đame ghê quá",
+            "time": "28/08/2022 22:33:56",
+            "attachment": []
+        }
+    ],
+    "100061582578194": [
+        {
+            "type": "message",
+            "message": "@mọi người",
+            "time": "28/08/2022 07:07:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ai chs ko",
+            "time": "28/08/2022 07:07:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Vô đê",
+            "time": "28/08/2022 07:08:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Gì cung dc",
+            "time": "28/08/2022 07:08:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ngây à",
+            "time": "28/08/2022 07:08:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Chs tc hay st",
+            "time": "28/08/2022 07:08:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Hq tạo hết r",
+            "time": "28/08/2022 07:08:58",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Thì vô",
+            "time": "28/08/2022 07:09:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "9020265",
+            "time": "28/08/2022 07:09:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Team code",
+            "time": "28/08/2022 07:09:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ai chs vô",
+            "time": "28/08/2022 07:10:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 09:14:16",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1070025200318832",
+                    "filename": "image-1070025200318832",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301310819_1070025203652165_4263393397165433302_n.jpg?stp=cp0_dst-jpg_p34x34&_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=jMHADMFH9HAAX9z_whp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLxS2W8nv3UfDpf0PSb_E-dLONTVQW1jjlytq7irX3pow&oe=632F9A8B",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301310819_1070025203652165_4263393397165433302_n.jpg?stp=dst-jpg_p280x280&_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=jMHADMFH9HAAX9z_whp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIxHEx5tSWSpEF_P5sLcvyCnp5JCi7-QTW6A45HyteOuQ&oe=632F9A8B",
+                    "previewWidth": 498,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301310819_1070025203652165_4263393397165433302_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=jMHADMFH9HAAX9z_whp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLT19jysCqO_7ukBBuWLkSRiJL-wa5dIESEBUOf-cwViw&oe=632F9A8B",
+                    "largePreviewWidth": 853,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301310819_1070025203652165_4263393397165433302_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=jMHADMFH9HAAX9z_whp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLT19jysCqO_7ukBBuWLkSRiJL-wa5dIESEBUOf-cwViw&oe=632F9A8B",
+                    "width": 2048,
+                    "height": 1152,
+                    "name": "image-1070025200318832"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Cu vĩ nó dg đợi chj khánh nãy h",
+            "time": "28/08/2022 09:14:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "😂😂",
+            "time": "28/08/2022 09:14:29",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Off lj",
+            "time": "28/08/2022 11:54:20",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Um",
+            "time": "28/08/2022 11:56:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Cố mà học",
+            "time": "28/08/2022 11:57:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Sau lên r mà chs tiếp",
+            "time": "28/08/2022 11:57:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ko ai nhớ mô",
+            "time": "28/08/2022 11:57:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ko tiin hỏi @mọi người coi",
+            "time": "28/08/2022 12:00:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 12:06:29",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABhZy3IQVdOJFB1fUGC4tgVYCPCo",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSRDTxTjq%2F&h=AT2HKDJEBWLLt5NLUtBIIQEa-353lmQhpBkZOhbRLfQ8BbLLkmQi0LPhsTMcGRw0ujAvU7k0c1q4I5Pg6Au5t8KcxTL2fVwHM0TnfBfdnAFXP-rsSaSpTCCXRjvfujSxvtMxUIkt56xxQro&s=1",
+                    "title": "Tú Lạnh Lùng on TikTok",
+                    "description": "Một khi đã có ngôi nhà mới thì chắc chắn cái gì cũng đổi mới và cái đầu tiên phải đổi mới đó là kĩ năng 👌😉",
+                    "source": "tiktok.com",
+                    "image": "https://external.xx.fbcdn.net/emg1/v/t13/15042111265516369629?url=https%3A%2F%2Fp16-sign-va.tiktokcdn.com%2Ftos-useast2a-p-0037-aiso%2F9164decee95745d1925a90367fe6ba03_1661663123%7Etplv-tiktokx-share-play.jpeg%3Fx-expires%3D1662267600%26x-signature%3DgJEL%252F8EcaYBfuCj8kdEkAebdgKc%253D&fb_obo=1&utld=tiktokcdn.com&stp=dst-emg0_q75_s960x540&ccb=13-1&oh=06_AapKiK2i_s6Xeidr4vtK7230zKo5C-Qt3yEoIF0Rft_v_A&oe=630C6DAD&_nc_sid=67ea6d",
+                    "width": 960,
+                    "height": 540,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {
+                        "width": "1280",
+                        "height": "720"
+                    },
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSRDTxTjq%2F&h=AT2HKDJEBWLLt5NLUtBIIQEa-353lmQhpBkZOhbRLfQ8BbLLkmQi0LPhsTMcGRw0ujAvU7k0c1q4I5Pg6Au5t8KcxTL2fVwHM0TnfBfdnAFXP-rsSaSpTCCXRjvfujSxvtMxUIkt56xxQro&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gABhZy3IQVdOJFB1fUGC4tgVYCPCo"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Chệu",
+            "time": "28/08/2022 15:44:09",
+            "attachment": []
+        }
+    ],
+    "100069376853875": [
+        {
+            "type": "message",
+            "message": "Chs tí",
+            "time": "28/08/2022 07:08:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Chs j pa",
+            "time": "28/08/2022 07:08:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Tạo phòng đi 🌚🌚",
+            "time": "28/08/2022 07:08:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Tc",
+            "time": "28/08/2022 07:08:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "🌤",
+            "time": "28/08/2022 08:52:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Nay cn à",
+            "time": "28/08/2022 08:58:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Để zo cày qd",
+            "time": "28/08/2022 08:58:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ":)))",
+            "time": "28/08/2022 08:58:35",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Thích cái mỏ m",
+            "time": "28/08/2022 08:58:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Có rũ đâu mà chs",
+            "time": "28/08/2022 09:00:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ":))",
+            "time": "28/08/2022 09:00:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Sạt boyy",
+            "time": "28/08/2022 09:16:09",
+            "attachment": []
+        }
+    ],
+    "100029718256865": [
+        {
+            "type": "message",
+            "message": "@mọi người",
+            "time": "28/08/2022 07:36:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Sáng r dậy cày qđ đeeee",
+            "time": "28/08/2022 07:36:28",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Ủa đây là bài gì dậy lạ quóe",
+            "time": "28/08/2022 08:04:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "🤣🤣",
+            "time": "28/08/2022 08:04:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ơ chị tưởng m có mấy acc trong qđ mà",
+            "time": "28/08/2022 08:05:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Đen lắm",
+            "time": "28/08/2022 08:06:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Cho acc phụ vào cày đi",
+            "time": "28/08/2022 08:06:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Tí chị duyệt",
+            "time": "28/08/2022 08:07:00",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Ocee",
+            "time": "28/08/2022 08:07:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Tutu đang nấu ăn sáng",
+            "time": "28/08/2022 08:29:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "🥲🥲",
+            "time": "28/08/2022 08:29:42",
+            "attachment": []
+        }
+    ],
+    "100057026523295": [
+        {
+            "type": "message",
+            "message": "Dạ",
+            "time": "28/08/2022 07:36:29",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Cái đm t ko chơi gay",
+            "time": "28/08/2022 07:36:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "/singv2 tình nàng tình ta",
+            "time": "28/08/2022 07:56:48",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "1",
+            "time": "28/08/2022 07:56:56",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Lên googl",
+            "time": "28/08/2022 15:43:16",
+            "attachment": []
+        }
+    ],
+    "100065898160835": [
+        {
+            "type": "message_reply",
+            "message": "Ok e",
+            "time": "28/08/2022 08:55:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ko phạt thêm đâu",
+            "time": "28/08/2022 08:55:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Chỉ 200 th",
+            "time": "28/08/2022 08:56:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "M có lý do mà",
+            "time": "28/08/2022 08:56:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 08:56:40",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "2971990063099039",
+                    "filename": "image-2971990063099039",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/299493433_2971990069765705_7101771693560822441_n.jpg?stp=cp0_dst-jpg_s64x64&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=O1Od4tAU2QMAX8y10SZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKQgZVqFQT2_QCxWV85EGiB8Y2_cG_3gxzbIXzu0NFukA&oe=632FA6F8",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/299493433_2971990069765705_7101771693560822441_n.jpg?stp=dst-jpg_p280x280&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=O1Od4tAU2QMAX8y10SZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJpQGOf4KopWA-kq-Gf4uA6zD5DmDXg5u2rZOqGdawioQ&oe=632FA6F8",
+                    "previewWidth": 606,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/299493433_2971990069765705_7101771693560822441_n.jpg?stp=dst-jpg_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=O1Od4tAU2QMAX8y10SZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVK9yOXKq-K_LG1RuRRqV5AE9jcSDIjc2B4R5wx1RdL7Aw&oe=632FA6F8",
+                    "largePreviewWidth": 1039,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/299493433_2971990069765705_7101771693560822441_n.jpg?stp=dst-jpg_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=O1Od4tAU2QMAX8y10SZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVK9yOXKq-K_LG1RuRRqV5AE9jcSDIjc2B4R5wx1RdL7Aw&oe=632FA6F8",
+                    "width": 2048,
+                    "height": 946,
+                    "name": "image-2971990063099039"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Mạng mẽo",
+            "time": "28/08/2022 08:56:41",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Thường rủ có ai thèm chs đâu",
+            "time": "28/08/2022 08:59:48",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "Omg",
+            "time": "28/08/2022 10:22:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 11:50:59",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "630355528517132",
+                    "filename": "image-630355528517132",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301096081_630355531850465_5838039918155613390_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=UxFooyrZoaIAX9B4mWr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIFEh7lKMCEw0km6qYhkCQjg0hTOGOxIIlsRVoM9-Ie6g&oe=63308589",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301096081_630355531850465_5838039918155613390_n.jpg?stp=dst-jpg_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=UxFooyrZoaIAX9B4mWr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKyRNscAwcsj3WkxMNUfgHWkUrbUUvbwVr0ggwA3zbi0A&oe=63308589",
+                    "previewWidth": 338,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301096081_630355531850465_5838039918155613390_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=UxFooyrZoaIAX9B4mWr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLwi63uVghtJBs3pFC0ZhsCMbk-9r7xeSinfTv3j4FVqg&oe=63308589",
+                    "largePreviewWidth": 579,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301096081_630355531850465_5838039918155613390_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=UxFooyrZoaIAX9B4mWr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLwi63uVghtJBs3pFC0ZhsCMbk-9r7xeSinfTv3j4FVqg&oe=63308589",
+                    "width": 633,
+                    "height": 525,
+                    "name": "image-630355528517132"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Chùn nó bảo t cày like",
+            "time": "28/08/2022 11:51:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": ":))",
+            "time": "28/08/2022 11:51:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Ai lq ko",
+            "time": "28/08/2022 14:45:30",
+            "attachment": []
+        }
+    ],
+    "100053076307149": [
+        {
+            "type": "message",
+            "message": "C khánh choi chả bh rủ",
+            "time": "28/08/2022 08:59:17",
+            "attachment": []
+        }
+    ],
+    "100076478538394": [
+        {
+            "type": "message",
+            "message": "🌤",
+            "time": "28/08/2022 09:03:18",
+            "attachment": []
+        }
+    ],
+    "100072668227991": [
+        {
+            "type": "message",
+            "message": "chs gà chị có gánh thì gánh",
+            "time": "28/08/2022 14:51:14",
+            "attachment": []
+        }
+    ],
+    "100083230930605": [
+        {
+            "type": "message",
+            "message": "@Duy Van Tran 😏đã ok chx",
+            "time": "28/08/2022 16:05:49",
+            "attachment": []
+        }
+    ],
+    "100079610275605": [
+        {
+            "type": "message",
+            "message": "T bằng m tiến ạ",
+            "time": "28/08/2022 17:01:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 17:03:10",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "453752590143383",
+                    "filename": "image-453752590143383",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301487227_453752596810049_3030443744834439355_n.png?stp=cp0_dst-png_s64x64&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Hy6VCt2cWMMAX8LL7NN&_nc_oc=AQkxNpDXZB6t1vV47vkpSJRBbSK_fdU7jVXJ4aFP_Rqjij3Zio5PAQbB2Y0YFXaO0DA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKQmdD70II_YSkLxPF425v6bxzYPIiw3-K7QA-FRhSaXw&oe=633177A5",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301487227_453752596810049_3030443744834439355_n.png?stp=dst-png_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Hy6VCt2cWMMAX8LL7NN&_nc_oc=AQkxNpDXZB6t1vV47vkpSJRBbSK_fdU7jVXJ4aFP_Rqjij3Zio5PAQbB2Y0YFXaO0DA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKI5xeonV9H9d6V-XikuXOJo2qtbq1JZJ7jn-xwGxcRIg&oe=633177A5",
+                    "previewWidth": 607,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301487227_453752596810049_3030443744834439355_n.png?stp=dst-png_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Hy6VCt2cWMMAX8LL7NN&_nc_oc=AQkxNpDXZB6t1vV47vkpSJRBbSK_fdU7jVXJ4aFP_Rqjij3Zio5PAQbB2Y0YFXaO0DA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJt_k1ry45lWyQxtxJCBSZ4XoRi7ITuBW_LwYHqs6bqSw&oe=633177A5",
+                    "largePreviewWidth": 1040,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301487227_453752596810049_3030443744834439355_n.png?stp=dst-png_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Hy6VCt2cWMMAX8LL7NN&_nc_oc=AQkxNpDXZB6t1vV47vkpSJRBbSK_fdU7jVXJ4aFP_Rqjij3Zio5PAQbB2Y0YFXaO0DA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJt_k1ry45lWyQxtxJCBSZ4XoRi7ITuBW_LwYHqs6bqSw&oe=633177A5",
+                    "width": 1560,
+                    "height": 720,
+                    "name": "image-453752590143383"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Ok nha @Duy Van Tran",
+            "time": "28/08/2022 17:03:19",
+            "attachment": []
+        }
+    ],
+    "100072768998356": [
+        {
+            "type": "message",
+            "message": "Anti cj Ly",
+            "time": "28/08/2022 17:08:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 18:12:36",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "601943228335751",
+                    "filename": "image-601943228335751",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301013806_601943231669084_2590569971087536023_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qlxpaR-JhrMAX9adPKQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJckWCm4dvEjZJJ4pmR2W-qdwE8u2Tyh8kQIkaiudzsvA&oe=63323CEA",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301013806_601943231669084_2590569971087536023_n.jpg?stp=dst-jpg_p280x280&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qlxpaR-JhrMAX9adPKQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVK-hjWhNz1GlTleZhWwnmOHNSUURGegsytpvuLm_Siz_Q&oe=63323CEA",
+                    "previewWidth": 280,
+                    "previewHeight": 622,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301013806_601943231669084_2590569971087536023_n.jpg?stp=dst-jpg_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qlxpaR-JhrMAX9adPKQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLfPmJU-OTT8okufVcCGjlpTpSi5HpjQY1DS0FpRWB9qA&oe=63323CEA",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1067,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/301013806_601943231669084_2590569971087536023_n.jpg?stp=dst-jpg_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qlxpaR-JhrMAX9adPKQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLfPmJU-OTT8okufVcCGjlpTpSi5HpjQY1DS0FpRWB9qA&oe=63323CEA",
+                    "width": 720,
+                    "height": 1600,
+                    "name": "image-601943228335751"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Sao chx mở nx",
+            "time": "28/08/2022 18:12:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Đủ 30 ngày r mà",
+            "time": "28/08/2022 18:13:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "",
+            "time": "28/08/2022 21:04:57",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-c38302c3-c408-4b36-80b3-1d2a2a3b9d5b-1661695496.mp4",
+                    "ID": "1092815494954816",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/301717318_8072254772814756_8233900033123481200_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=XLQi06jJ8qcAX-9D2PL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKUWVvTxYPRgFmPETVgCXnYc7Xbp4U51WEVR7j8pXwKUg&oe=630C686B",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/301997158_7856353587769623_339209731424626482_n.mp4/video-c38302c3-c408-4b36-80b3-1d2a2a3b9d5b-1661695496.mp4?_nc_cat=111&ccb=1-7&_nc_sid=060d78&_nc_ohc=4Sjph51xCVkAX_cTSAT&vabr=441974&_nc_ht=scontent.xx&oh=03_AVLP2hcQPfNNHPR0JJnxPLiR_l2w7B94uW7eoH6cm1MGRQ&oe=630CC034&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/301717318_8072254772814756_8233900033123481200_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=XLQi06jJ8qcAX-9D2PL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKUWVvTxYPRgFmPETVgCXnYc7Xbp4U51WEVR7j8pXwKUg&oe=630C686B"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "Dịch đi",
+            "time": "28/08/2022 21:05:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "Hhh",
+            "time": "28/08/2022 21:13:52",
+            "attachment": []
+        }
+    ],
+    "100063673780008": [
+        {
+            "type": "message",
+            "message": "cả cái box mỗi con bot hoạt động 😑",
+            "time": "28/08/2022 20:11:13",
+            "attachment": []
+        }
+    ]
+}

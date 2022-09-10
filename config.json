@@ -1,0 +1,129 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "encryptAppstate": false,
+    "autoClean": true,
+    "commandDisabled": [
+        "ban.js",
+        "offbot.js",
+        "war.js",
+        "ghepdoi.js",
+        "Gheplove.js",
+        "antiout.js",
+        "baitap.js",
+        "botv3.js",
+        "botv4.js",
+        "goibotv4.js",
+        "trai.js",
+        "boy.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝒍𝒖𝒄𝒊𝒇𝒆𝒓`𝒔 ",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100080431916488",
+        ""
+    ],
+    "NDH": [
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "cave": {
+        "cooldownTime": 60
+    },
+    "cá": {
+        "APIKEY": ""
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "diemdanh": {
+        "cooldownTime": 300
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyANZ2iLlzjDztWXgbCgL8Oeimn3i3qd0bE",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyANZ2iLlzjDztWXgbCgL8Oeimn3i3qd0bE"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "work2": {
+        "cooldownTime": 1200000
+    },
+    "cnamebot": {
+        "status": true
+    },
+    "adminOnly": false
+}
